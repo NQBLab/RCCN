@@ -2,13 +2,13 @@
 
 [Overview]( #Overview)
 
-[Repo Contents]( #Repo Contents)
+[Repo Contents]( #Repo-Contents)
 
-[System Requirements]( #System Requirements)
+[System Requirements]( #System-Requirements)
 
-[Installation Guide]( #Installation Guide)
+[Installation Guide]( #Installation-Guide)
 
-[Demo and Instructions For Use]( #Demo and Instructions For Use)
+[Demo and Instructions For Use]( #Demo-and-Instructions-For-Use)
 
 # Overview
 
