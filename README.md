@@ -1,14 +1,11 @@
 ## Contents
 
-[Overview]( #Overview)
-
-[Repo Contents]( #Repo-Contents)
-
-[System Requirements]( #System-Requirements)
-
-[Installation Guide]( #Installation-Guide)
-
-[Demo and Instructions For Use]( #Demo-and-Instructions-For-Use)
+- [Overview]( #Overview)
+- [Repo Contents]( #Repo-Contents)
+- [System Requirements]( #System-Requirements)
+- [Installation Guide]( #Installation-Guide)
+- [Demo and Instructions For Use]( #Demo-and-Instructions-For-Use)
+- [License](./LICENSE)
 
 # Overview
 
